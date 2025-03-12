@@ -2,4 +2,4 @@ format:
 	black .
 
 test:
-	pytest ./tests/
+	pytest .
