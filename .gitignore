@@ -128,3 +128,12 @@ dmypy.json
 # FastAPI specific
 *.db
 *.sqlite3
+
+# ide files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
