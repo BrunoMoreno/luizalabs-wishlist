@@ -2,4 +2,8 @@ format:
 	black .
 
 test:
-	pytest .
+	pytest
+
+run:
+	fastapi dev --reload app/main.py
+
